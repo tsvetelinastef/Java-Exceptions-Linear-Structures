@@ -1,0 +1,10 @@
+Ford
+Mustang
+6000
+motor
+12
+Samsung
+Galaxy
+400
+battery
+3
